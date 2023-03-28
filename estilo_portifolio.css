@@ -76,9 +76,11 @@ section#section-sobre-mim img#foto-sobre-mim{
 }
 section#section-projetos ul{
     list-style: none;
+    margin-right: -50%;
 }
 section#section-projetos ul li{
     display: inline-block;
+    
 }
 footer#rodape{
     position: relative;
