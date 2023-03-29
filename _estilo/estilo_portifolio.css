@@ -20,6 +20,7 @@ nav#navbar ul{
     padding: 10px;
     
     
+    
 }
 nav#navbar li{
     display: inline-block;
@@ -37,17 +38,6 @@ nav#navbar li:active{
 nav#navbar a{
     text-decoration: none;
     color: white;
-}
-
-nav#navbar input{
-    border-radius: 15px;
-    height: 30px;
-    position: absolute;
-    top: 15px;
-    left: 145px;
-    background-color: #819fab;
-    font-family: monospace;
-    box-shadow: 1px 1px 0 1px rgba(0, 0, 0, 0.5);
 }
 .corpo{
     width: 600px;
@@ -70,7 +60,6 @@ nav#navbar input{
     text-indent: 50px;
 }
 section#section-sobre-mim img#foto-sobre-mim{
-    
     width: 200px;
     height: 100%;
 }
