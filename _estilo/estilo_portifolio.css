@@ -63,13 +63,7 @@ section#section-sobre-mim img#foto-sobre-mim{
     width: 200px;
     height: 100%;
 }
-section#section-projetos ul{
-    list-style: none;
-    margin-right: -50%;
-}
-section#section-projetos ul li{
-    display: inline-block;
-    
+section#section-projetos .img{
 }
 footer#rodape{
     position: relative;
